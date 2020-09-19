@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47296" started-at="2020-08-25T09:25:19Z" finished-at="2020-08-25T09:26:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47296" started-at="2020-08-25T09:25:19Z" finished-at="2020-08-25T09:26:06Z">
+      <class name="quick.ExtentArr.FirstTest">
+        <test-method status="PASS" signature="first(java.lang.String)[pri:0, instance:quick.ExtentArr.FirstTest@20b2475a]" name="first" is-config="true" duration-ms="26085" started-at="2020-08-25T14:55:19Z" finished-at="2020-08-25T14:55:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://rahulshettyacademy.com/seleniumPractise/#/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="start(java.lang.String, java.lang.String)[pri:0, instance:quick.ExtentArr.FirstTest@20b2475a]" name="start" duration-ms="21038" started-at="2020-08-25T14:55:45Z" data-provider="getData" finished-at="2020-08-25T14:56:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahulshettyacademy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- quick.ExtentArr.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
